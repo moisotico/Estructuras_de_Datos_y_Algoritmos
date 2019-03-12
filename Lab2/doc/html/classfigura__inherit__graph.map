@@ -1,0 +1,5 @@
+<map id="figura" name="figura">
+<area shape="rect" id="node2" href="$classcirculo.html" title="circulo" alt="" coords="5,80,65,107"/>
+<area shape="rect" id="node3" href="$classrectangulo.html" title="rectangulo" alt="" coords="90,80,173,107"/>
+<area shape="rect" id="node4" href="$classtriangulo.html" title="triangulo" alt="" coords="197,80,268,107"/>
+</map>

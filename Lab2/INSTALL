@@ -1,0 +1,15 @@
+Para compilar el programa solo es necesario:
+  cd PATH_A_ESTA_CARPETA_EN_SU_SISTEMA
+  make
+
+una vez ejecutado el comando make, es posible ejecutar el binario con el comando:
+
+  make run
+
+tambien se puede generar la documentación del codigo con la opcion
+
+  make doc
+
+para eliminar los archivos generados con los comandos anteriores solo ejecute:
+
+  make clean

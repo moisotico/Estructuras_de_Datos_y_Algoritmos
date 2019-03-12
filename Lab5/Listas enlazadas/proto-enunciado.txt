@@ -1,0 +1,6 @@
+Se debe crear una clase abstracta tipo list, de la cual heredan List array
+insert fijo va a ser virtual.
+
+Emplantillar las listas
+
+Agregar List <P,D> = new L wh. P <P , D>

@@ -1,0 +1,4 @@
+/home/moises/Documents/C++/Listas enlazadas/main.cpp: In function ‘int main(int, const char**)’:
+/home/moises/Documents/C++/Listas enlazadas/main.cpp:9:18: error: request for member ‘n’ in ‘head’, which is of pointer type ‘Nodo*’ (maybe you meant to use ‘->’ ?)
+     cout << head.n << endl ;
+                  ^
